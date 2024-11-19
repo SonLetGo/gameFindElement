@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MуFirstGame</string>
+    <string name="Word">Слово</string>
+    <string name="text">Найти:</string>
+    <string name="Word_Pizza">Пицца</string>
+    <string name="Word_Minion">Миньон в белом костьюме </string>
+    <string name="Word_Kegla">Кегля</string>
+    <string name="Win">Ура победа</string>
+</resources>
